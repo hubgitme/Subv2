@@ -1,0 +1,4 @@
+vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-us.brocdn.com:443?path=%2Fwebsocket&security=tls&encryption=none&host=cdn-us.brocdn.com&type=ws&sni=cdn-us.brocdn.com#BroVPN_US_Premium
+vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-pl.brocdn.com:443?path=%2Fwebsocket&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=cdn-pl.brocdn.com&fp=chrome&type=ws&sni=cdn-pl.brocdn.com#BroVPN_PL_Free
+vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-fr.brocdn.com:443?path=%2Fwebsocket&security=tls&encryption=none&host=cdn-fr.brocdn.com&type=ws&sni=cdn-fr.brocdn.com#BroVPN_FR_Free
+vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-gb.brocdn.com:443?path=%2Fwebsocket&security=tls&encryption=none&host=cdn-gb.brocdn.com&type=ws&sni=cdn-gb.brocdn.com#BroVPN_GB_Free
