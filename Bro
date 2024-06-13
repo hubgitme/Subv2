@@ -1,4 +1,4 @@
-BroVPN:
+
 vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-fr.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-fr.brocdn.com&sni=cdn-fr.brocdn.com#BroVPN_FR_Free
 
 vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-pl.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-pl.brocdn.com&sni=cdn-pl.brocdn.com#BroVPN_PL_Free
