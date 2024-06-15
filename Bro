@@ -1,26 +1,6 @@
-
+BroVPN:
 vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-fr.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-fr.brocdn.com&sni=cdn-fr.brocdn.com#BroVPN_FR_Free
 
 vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-pl.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-pl.brocdn.com&sni=cdn-pl.brocdn.com#BroVPN_PL_Free
 
 vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-gb.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-gb.brocdn.com&sni=cdn-gb.brocdn.com#BroVPN_GB_Free
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-au.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-au.brocdn.com&sni=cdn-au.brocdn.com#BroVPN_AU_Premium
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-ca.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-ca.brocdn.com&sni=cdn-ca.brocdn.com#BroVPN_CA_Premium
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-fi.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-fi.brocdn.com&sni=cdn-fi.brocdn.com#BroVPN_FI_Premium
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-de.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-de.brocdn.com&sni=cdn-de.brocdn.com#BroVPN_DE_Premium
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-il.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-il.brocdn.com&sni=cdn-il.brocdn.com#BroVPN_IL_Premium
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-it.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-it.brocdn.com&sni=cdn-it.brocdn.com#BroVPN_IT_Premium
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-lv.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-lv.brocdn.com&sni=cdn-lv.brocdn.com#BroVPN_LV_Premium
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-ru.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-ru.brocdn.com&sni=cdn-ru.brocdn.com#BroVPN_RU_Premium
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-sg.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-sg.brocdn.com&sni=cdn-sg.brocdn.com#BroVPN_SG_Premium
-
-vless://1c0a5226-1391-11ef-8783-00505603e70d@cdn-us.brocdn.com:443?type=ws&security=tls&path=%2Fwebsocket&host=cdn-us.brocdn.com&sni=cdn-us.brocdn.com#BroVPN_US_Premium
